@@ -5,6 +5,7 @@ A repository dedicated for learning Redux (Redux Toolkit) and its core functiona
 ### Chapters
 * 01 - [Redux Toolkit Basic Structure](https://github.com/RyouHikaru/learning-redux-ch-01)
 * 02 - [Example Project: Blog Post Application](https://github.com/RyouHikaru/learning-redux-ch-02)
+* 03 - [React Thunk Middleware](https://github.com/RyouHikaru/learning-redux-ch-03)
 
 _Note: List to be updated per chapters in the tutorial series_
 
